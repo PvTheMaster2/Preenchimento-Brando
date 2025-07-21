@@ -1,0 +1,103 @@
+{
+  "prepared_service": {
+    "lunch": "Check equipment, organise station and prepare mise en place for lunch service.",
+    "dinner": "Verify inventory, prep ingredients and set up station for dinner shift."
+  },
+  "special_requests": [
+    "Customer asked for gluten-free meal.",
+    "Request for steak well done with sauce on the side.",
+    "Vegetarian substitution requested."
+  ],
+  "food_details": [
+    "Prepared grilled chicken with seasonal vegetables.",
+    "Cooked pasta bolognese and garlic bread.",
+    "Served classic Caesar salad."
+  ],
+  "complaints": [
+    "Delay in serving main course.",
+    "Customer unhappy with portion size.",
+    "Issue with drink order."
+  ],
+  "debrief": [
+    "Discussed improvements with team after service.",
+    "Reviewed prep list and cleaning tasks.",
+    "Went over customer feedback with supervisor."
+  ],
+  "workflow_lunch": [
+    {"time": "10:30", "task": "Station set up", "equipment": "Cutting boards and knives", "communication": "Head chef about specials"},
+    {"time": "11:00", "task": "Start prepping orders", "equipment": "Fryer and grill", "communication": "Team about priorities"},
+    {"time": "12:00", "task": "Service peak", "equipment": "All stations", "communication": "Front of house"},
+    {"time": "14:30", "task": "Clean and restock", "equipment": "Sanitiser", "communication": "Sous chef about inventory"}
+  ],
+  "workflow_dinner": [
+    {"time": "16:30", "task": "Station set up", "equipment": "Prep surfaces", "communication": "Head chef on menu"},
+    {"time": "18:00", "task": "Dinner rush", "equipment": "Oven and grill", "communication": "Servers on orders"},
+    {"time": "20:00", "task": "Check and rotate stock", "equipment": "Fridge", "communication": "Team about leftovers"},
+    {"time": "22:00", "task": "Close down and clean", "equipment": "Mops and buckets", "communication": "Manager for handover"}
+  ],
+  "problems": [
+    "Equipment malfunction during service",
+    "Shortage of fresh herbs",
+    "Late delivery of supplies"
+  ],
+  "solutions": [
+    "Called maintenance and switched equipment",
+    "Adjusted recipe using available herbs",
+    "Communicated with supplier and reorganised prep"
+  ],
+  "learnings": [
+    "Better time management needed",
+    "Importance of clear communication",
+    "Keep backup ingredients ready"
+  ],
+  "prepared_for_service": [
+    "Station prepared, ingredients checked.",
+    "Mise en place done, equipment sanitized."
+  ],
+  "complaints_problems": [
+    "Customer returned meal for being cold."
+  ],
+  "solutions_implemented": [
+    "Reheated dish and apologised."
+  ],
+  "debrief_learnings": [
+    "Team worked well under pressure."
+  ],
+  "handover_completed": [
+    "Updated next shift about remaining prep."
+  ],
+  "customer_feedback": [
+    "Guests enjoyed the desserts."
+  ],
+  "workflow_timeline": [
+    "10:30", "11:00", "12:00", "13:00", "14:00", "15:00", "15:30", "16:00"
+  ],
+  "workflow_tasks": [
+    "Check equipment",
+    "Mise en place",
+    "Service preparation",
+    "Manage orders",
+    "Quality check",
+    "Clean station",
+    "Prepare handover",
+    "Finalize paperwork"
+  ],
+  "workflow_equipment": [
+    "Knives",
+    "Ovens",
+    "Grill",
+    "Fryer",
+    "Refrigerator",
+    "Cleaning supplies",
+    "Logbook",
+    "All equipment shutdown"
+  ],
+  "workflow_communication": [
+    "Head chef about specials",
+    "Sous chef about prep",
+    "Wait staff on orders",
+    "Team about cleaning",
+    "Next shift briefing",
+    "Supervisor about shift completion"
+  ]
+}
