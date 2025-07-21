@@ -1,0 +1,4 @@
+docxtpl
+pandas
+python-docx
+openpyxl
