@@ -1,0 +1,18 @@
+[
+  {
+    "shift_number": 1,
+    "prepared_service": "Organizei ingredientes frescos e chequei equipamentos para o almoco.",
+    "special_requests": "Cliente pediu opcao vegana no prato principal.",
+    "food_details": "Preparei pratos especiais de frutos do mar.",
+    "complaints": "Nenhuma",
+    "debrief": "Turno tranquilo, aprendi novas tecnicas de grelha."
+  },
+  {
+    "shift_number": 5,
+    "prepared_service": "Revisei estoque e deixei estacao pronta para o jantar.",
+    "special_requests": "Atendi solicitacao de alergico a lactose.",
+    "food_details": "Auxiliei na estacao de sobremesas e molhos.",
+    "complaints": "Atraso na entrega de legumes.",
+    "debrief": "Melhorar comunicacao com fornecedores."
+  }
+]
