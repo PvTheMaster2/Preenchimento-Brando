@@ -1,0 +1,46 @@
+{
+  "prepared_service": {
+    "lunch": "Checagem de equipamentos e organizacao da estacao para o servico de almoco.",
+    "dinner": "Organizacao da estacao e verificacao de ingredientes para o servico de jantar."
+  },
+  "special_requests": [
+    "Cliente pediu refeicao sem gluten e molho a parte.",
+    "Solicitacao especial de temperatura na carne e vegetais extras.",
+    "Adaptacao para cliente vegetariano com substituicao de proteina."
+  ],
+  "food_details": [
+    "Preparei hamburgueres artesanais, batatas fritas e saladas frescas.",
+    "Trabalhei com grelhados, risotos e pratos principais da temporada.",
+    "Foquei em preparacao de sopas, massas e sobremesas especiais."
+  ],
+  "complaints": [
+    "Cliente reclamou sobre temperatura do prato.",
+    "Demanda maior que o esperado durante horario de pico.",
+    "Equipamento apresentou problema temporario."
+  ],
+  "debrief": [
+    "Aprendi importancia do controle de temperatura e trabalho em equipe.",
+    "Desenvolvi tecnicas de organizacao e comunicacao eficaz.",
+    "Melhorei comunicacao com garcons e coordenacao de pratos."
+  ],
+  "workflow_lunch": [
+    {"time": "10:30", "task": "Check equipment and station setup", "equipment": "Grill / Fryer / Prep surfaces", "communication": "Head Chef about daily specials"},
+    {"time": "11:00", "task": "Mise en place preparation", "equipment": "Knives / Cutting boards / Containers", "communication": "Sous chef about ingredient availability"},
+    {"time": "12:00", "task": "Service preparation - lunch rush", "equipment": "All cooking equipment / Safety gloves", "communication": "Wait staff about special requirements"},
+    {"time": "13:00", "task": "Peak service management", "equipment": "Thermometer / Plating equipment", "communication": "Kitchen team about order priorities"},
+    {"time": "14:00", "task": "Order completion and quality check", "equipment": "Cleaning supplies / Sanitizer", "communication": "Head chef about food quality"},
+    {"time": "15:00", "task": "Station cleaning and sanitization", "equipment": "Clipboards / Logbooks", "communication": "Team about equipment status"},
+    {"time": "15:30", "task": "Handover preparation", "equipment": "Handover documentation", "communication": "Next shift about ongoing orders"},
+    {"time": "16:00", "task": "Final checks and departure", "equipment": "All equipment shutdown", "communication": "Supervisor about shift completion"}
+  ],
+  "workflow_dinner": [
+    {"time": "16:00", "task": "Check equipment and station setup", "equipment": "Grill / Fryer / Prep surfaces", "communication": "Head Chef about daily specials"},
+    {"time": "17:00", "task": "Mise en place preparation", "equipment": "Knives / Cutting boards / Containers", "communication": "Sous chef about ingredient availability"},
+    {"time": "18:00", "task": "Service preparation - lunch rush", "equipment": "All cooking equipment / Safety gloves", "communication": "Wait staff about special requirements"},
+    {"time": "19:00", "task": "Peak service management", "equipment": "Thermometer / Plating equipment", "communication": "Kitchen team about order priorities"},
+    {"time": "20:00", "task": "Order completion and quality check", "equipment": "Cleaning supplies / Sanitizer", "communication": "Head chef about food quality"},
+    {"time": "21:00", "task": "Station cleaning and sanitization", "equipment": "Clipboards / Logbooks", "communication": "Team about equipment status"},
+    {"time": "21:30", "task": "Handover preparation", "equipment": "Handover documentation", "communication": "Next shift about ongoing orders"},
+    {"time": "22:00", "task": "Final checks and departure", "equipment": "All equipment shutdown", "communication": "Supervisor about shift completion"}
+  ]
+}
