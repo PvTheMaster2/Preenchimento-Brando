@@ -1,0 +1,13 @@
+{
+  "start_date": "2024-01-01",
+  "establishment": "Fatcow on James Street",
+  "menu_style": "\u00e0 la carte",
+  "shifts": {
+    "lunch": {"start_time": "10:30", "end_time": "15:30", "hours": 5},
+    "dinner": {"start_time": "17:00", "end_time": "22:00", "hours": 5}
+  },
+  "student_name": "Seu Nome",
+  "supervisor": "Nome do Supervisor",
+  "course": "SIT40521 Certificate IV in Kitchen Management",
+  "template_path": "template_logbook.docx"
+}
